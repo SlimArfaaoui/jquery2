@@ -1,6 +1,6 @@
 {
-  "name": "jquery",
-  "title": "jQuery",
+  "name": "jquery2",
+  "title": "jQuery2",
   "description": "JavaScript library for DOM operations",
   "version": "2.1.4",
   "main": "dist/jquery.js",
@@ -14,7 +14,7 @@
     "url": "https://github.com/jquery/jquery.git"
   },
   "keywords": [
-    "jquery",
+    "jquery2",
     "javascript",
     "browser",
     "library"
